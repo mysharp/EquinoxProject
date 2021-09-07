@@ -1,8 +1,9 @@
-﻿using System;
-using Equinox.Infra.Data.Context;
+﻿using Equinox.Infra.Data.Context;
+using Equinox.UI.Web.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace Equinox.UI.Web.Configurations
 {
